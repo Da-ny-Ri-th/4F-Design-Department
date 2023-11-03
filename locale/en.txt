@@ -1,0 +1,48 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_44046237_4B49_52E7_41B6_6723C5F61E56.source = https://www.cmedcc.com/
+LinkBehaviour_44041237_4B49_52E7_41C8_23E2763E7EF8.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_441BE236_4B49_52F9_41D1_30A5A248EF5A.source = https://www.linkedin.com/company/cmedcc
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_BC0F9372_9437_A0AF_41D9_37E510D4A1B0.url = media/map_88484541_94D0_A0E2_41E0_D7E2F479D2A7_en_0.png
+imlevel_BC0FA373_9437_A0AD_41D3_3C27894F93EB.url = media/map_88484541_94D0_A0E2_41E0_D7E2F479D2A7_en_1.png
+imlevel_BC0FB373_9437_A0AD_41BD_BDBEEDC1920C.url = media/map_88484541_94D0_A0E2_41E0_D7E2F479D2A7_en_2.png
+imlevel_BC084373_9437_A0AD_41D5_1E3686164305.url = media/map_88484541_94D0_A0E2_41E0_D7E2F479D2A7_en_3.png
+imlevel_BC085373_9437_A0AD_41CE_83F9473AD687.url = media/map_88484541_94D0_A0E2_41E0_D7E2F479D2A7_en_4.png
+
+### Title
+panorama_8968F528_94F1_E0A2_41AA_032A35A59DD6.label = IMG_20231103_153404_00_113_PureShot
+panorama_8F69A097_94F1_A06D_41D9_E91EF6234008.label = IMG_20231103_153432_00_114_PureShot
+panorama_8F698C18_94F1_A062_41D2_509E61D7302E.label = IMG_20231103_153453_00_115_PureShot
+panorama_8F683898_94F1_A062_41CF_024500672C0A.label = IMG_20231103_153528_00_116_PureShot
+panorama_8F69441D_94F0_6062_41B8_EF3C8D7B7FD3.label = IMG_20231103_153612_00_117_PureShot
+panorama_8F690FF6_94F0_7FAE_41E0_63CD3ABCF92B.label = IMG_20231103_153643_00_118_PureShot
+map_88484541_94D0_A0E2_41E0_D7E2F479D2A7.label = Mini Map
+
+## Skin
+
+### Button
+Button_457C6D5F_64D0_6790_41D7_73EA7A7C0B12.label = Contact Us
+Button_457E9D60_64D0_67B0_41D4_74152AE58FF2.label = Mini Map
+Button_457CAD5E_64D0_6790_41D5_6F4FA5BC8AFF.label = Screenshot
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = CMED Head Office, 4F-Design Department
+
+### Multiline Text
+HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 4F-Design Department
