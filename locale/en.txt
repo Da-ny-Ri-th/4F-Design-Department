@@ -12,37 +12,181 @@ LinkBehaviour_441BE236_4B49_52F9_41D1_30A5A248EF5A.source = https://www.linkedin
 ### Floorplan
 
 ### Image
-imlevel_BDAE9088_9430_607B_412B_450840AF1200.url = media/map_88484541_94D0_A0E2_41E0_D7E2F479D2A7_en_0.png
-imlevel_BDAE7089_9430_607D_41C6_B1A65F3D3320.url = media/map_88484541_94D0_A0E2_41E0_D7E2F479D2A7_en_1.png
-imlevel_BDAE4089_9430_607D_41BC_F1C17817BC1C.url = media/map_88484541_94D0_A0E2_41E0_D7E2F479D2A7_en_2.png
-imlevel_BDAE5089_9430_607D_41CF_44DC2CAFF0E3.url = media/map_88484541_94D0_A0E2_41E0_D7E2F479D2A7_en_3.png
-imlevel_BDAE2089_9430_607D_417E_860A8B1FA06B.url = media/map_88484541_94D0_A0E2_41E0_D7E2F479D2A7_en_4.png
+imlevel_AA06EF34_A474_8F3D_41CF_52794D80506C.url = media/map_83CD77DE_93F0_6FCF_41DF_BD1D550BA38C_en_0.png
+imlevel_AA069F34_A474_8F3D_41D1_732B564AB3DE.url = media/map_83CD77DE_93F0_6FCF_41DF_BD1D550BA38C_en_1.png
+imlevel_AA068F34_A474_8F3D_4199_680BB993471F.url = media/map_83CD77DE_93F0_6FCF_41DF_BD1D550BA38C_en_2.png
+imlevel_AA06BF34_A474_8F3D_41DD_6C0617ADB51A.url = media/map_83CD77DE_93F0_6FCF_41DF_BD1D550BA38C_en_3.png
+imlevel_AA06AF34_A474_8F3D_41B7_D1285483DC9E.url = media/map_83CD77DE_93F0_6FCF_41DF_BD1D550BA38C_en_4.png
+
+### Subtitle
+panorama_8E401A56_8004_9CE7_41D7_777CB9C50119.subtitle = App Office 1
+panorama_9CF38ADB_8A8C_7D09_41D5_078B28CB6AAE.subtitle = App Office 1
+panorama_9F14B388_93F0_E031_41C3_D2F09EC6E895.subtitle = App Office 1
+panorama_AA24B93C_A44A_6EAE_41D7_DC5025F17D04.subtitle = App Office 1
+panorama_940C5631_8ABC_551C_41CE_E761C595C4BA.subtitle = App Office 1
+panorama_8EFA27E0_8004_73A1_41DC_27EA61B50FD8.subtitle = App Office 1
+panorama_9A4B4246_89E7_61C7_41DB_613EE4A726B1.subtitle = App Office 1
+panorama_9A272821_89E5_617D_41CB_FD87331F1F0E.subtitle = App Office 1
+panorama_9500BC72_8085_8509_41DF_B81C9324EAD0.subtitle = App Office 1
+panorama_AA042F4E_A44E_E2ED_4191_30C97A869BEA.subtitle = App Office 1
+panorama_9936F92F_891A_E349_41D8_1A7BB3A4F15E.subtitle = App Office 1
+panorama_9EBA906E_93F0_A0CE_41DC_7F8599D8A23A.subtitle = App Office 1
+panorama_94117083_8ABC_EDFC_41DC_42B96FFAB8A0.subtitle = App Office 2
+panorama_8ECC9E36_8005_94A1_41CB_8A2615D9DAC6.subtitle = App Office 2
+panorama_AB5022D8_A44E_E3F6_41D8_C6AE855DCFD5.subtitle = App Office 2
+panorama_94F2491A_808B_8F39_41DA_0171885D8F38.subtitle = App Office 2
+panorama_AA1AA3D9_A44A_21F6_41B6_A6E7BE287EF3.subtitle = App Office 2
+panorama_95028E37_8085_8508_41D1_EFC5FFB35ECC.subtitle = App Office 2
+panorama_9A4A4DAA_89E7_634C_41C8_FF7B277E06F4.subtitle = App Office 2
+panorama_9CEC062F_8A8C_5509_41C7_436011C6D274.subtitle = App Office 2
+panorama_9937840E_891A_E14B_41D3_5538AA2B8B6F.subtitle = App Office 2
+panorama_9A270311_89E5_675D_41C6_F6F736BF09D9.subtitle = App Office 2
+panorama_9F14BE70_93F0_E0D0_41DD_86396E516F8A.subtitle = App Office 2
+panorama_9E36251B_93F0_A056_41CC_4A723B099DA3.subtitle = App Office 2
+panorama_947774E6_8ABC_5507_41D0_951A38AAE66A.subtitle = BIM Working Space
+panorama_6C13FEC6_7F9A_8505_41C6_4B2366557BD6.subtitle = BIM Working Space
+panorama_94FE4406_808A_8508_41D1_6A2CB4437507.subtitle = BIM Working Space
+panorama_9936C3A1_891B_2779_41B4_31FA59ADB7CA.subtitle = BIM Working Space
+panorama_9A26F761_89E5_2FFD_41DD_3EF13E196D15.subtitle = BIM Working Space
+panorama_9EB92D28_93F0_6072_41C0_943252EE0773.subtitle = BIM Working Space
+panorama_9F1452B0_93F0_A050_41DD_6231CAA16BB0.subtitle = BIM Working Space
+panorama_AA0655A4_A44E_665E_41D0_058E736BD1F6.subtitle = BIM Working Space
+panorama_6BCACD9E_7F86_8704_41D0_69AE81A84C8D.subtitle = BIM Working Space
+panorama_9A4A0787_89E7_6F45_41DA_080DAC800735.subtitle = BIM Working Space
+panorama_9CEF1A5F_8A8C_3D0A_41C9_3AD707ACA5C6.subtitle = BIM Working Space
+panorama_6C116326_7F9A_8305_41DC_7B52E00895E4.subtitle = Entrance
+panorama_9DE41C28_89EA_E14C_41B8_A0E2A4368E54.subtitle = Entrance
+panorama_95141605_8ABC_3504_41D6_0108743EE86D.subtitle = Entrance
+panorama_6BF41C57_7F86_8504_41B9_038BF5B38649.subtitle = Entrance
+panorama_9532A646_808A_8508_41C6_DBB77C4E42AA.subtitle = Entrance
+panorama_92D84E9D_8A8B_D509_41E0_1948DBDB2B05.subtitle = Entrance
+panorama_9B12180E_891B_214B_41D6_69215B258A05.subtitle = Entrance
+panorama_9DB365B9_89E7_234D_41DA_DF08AAEE1D10.subtitle = Entrance
+panorama_9EB92237_93F0_605E_41E0_2C37C7E572F1.subtitle = Entrance
+panorama_9D71F665_93F0_A0F0_41C4_0E39293113ED.subtitle = Entrance
+panorama_AB80D8BC_A44A_2FAE_41BB_E251350041F2.subtitle = Entrance
+panorama_AA059020_A44E_7E55_41E0_B1D079FD0310.subtitle = Entrance
+panorama_9A48DBE0_89E7_26FC_41CA_2322EEB1FE54.subtitle = STR Working Space 1
+panorama_9F152DB7_93F0_A05F_41DB_963C8E0BA6EA.subtitle = STR Working Space 1
+panorama_9CF3CFFC_8A8C_530E_41D9_162C67C52BE5.subtitle = STR Working Space 1
+panorama_9A26ED30_89E5_235B_419B_01948D09709D.subtitle = STR Working Space 1
+panorama_AA066BCC_A44E_21ED_41E0_7AAF62252839.subtitle = STR Working Space 1
+panorama_AA1B5E57_A44A_62FA_41D4_0B9ED6E0641B.subtitle = STR Working Space 1
+panorama_9517836A_8085_8318_41D7_9106E49084EA.subtitle = STR Working Space 1
+panorama_9EA67B68_93F0_A0F2_41BC_A3B73EF14F20.subtitle = STR Working Space 1
+panorama_94679161_8ABF_EF3C_41C6_4F25595612EB.subtitle = STR Working Space 1
+panorama_6C111536_7F87_8704_41D6_4B0CBB3A98B4.subtitle = STR Working Space 1
+panorama_950001A7_808A_BF08_41C3_11D041791274.subtitle = STR Working Space 2
+panorama_9EB996AA_93F0_6076_41AE_5F3D23471CC5.subtitle = STR Working Space 2
+panorama_9CF2E52E_8A8C_570A_41D3_6F7CE652F13F.subtitle = STR Working Space 2
+panorama_94F23E3D_8085_8578_41DE_BDF431B25F6F.subtitle = STR Working Space 2
+panorama_AA05975E_A44E_22ED_41DB_A98231F44B42.subtitle = STR Working Space 2
+panorama_6C1CEA26_7F87_8D05_41A0_F4F85C87F406.subtitle = STR Working Space 2
+panorama_9F14F880_93F0_E030_41D4_ED16FCE5AE78.subtitle = STR Working Space 2
+panorama_9A482101_89E7_233D_41C8_4F7B50BCA28B.subtitle = STR Working Space 2
+panorama_AA242389_A44A_6256_41E2_E515C4E60911.subtitle = STR Working Space 2
+panorama_9936CE81_891B_2139_41A2_3B198C43F65A.subtitle = STR Working Space 2
+panorama_941A5D70_8ABC_371B_418E_B6383FAF24DA.subtitle = STR Working Space 2
+panorama_9A260241_89E5_213D_41D7_B8F34C9BDE34.subtitle = STR Working Space 2
 
 ### Title
-panorama_8968F528_94F1_E0A2_41AA_032A35A59DD6.label = IMG_20231103_153404_00_113_PureShot
-panorama_8F69A097_94F1_A06D_41D9_E91EF6234008.label = IMG_20231103_153432_00_114_PureShot
-panorama_8F698C18_94F1_A062_41D2_509E61D7302E.label = IMG_20231103_153453_00_115_PureShot
-panorama_8F683898_94F1_A062_41CF_024500672C0A.label = IMG_20231103_153528_00_116_PureShot
-panorama_8F69441D_94F0_6062_41B8_EF3C8D7B7FD3.label = IMG_20231103_153612_00_117_PureShot
-panorama_8F690FF6_94F0_7FAE_41E0_63CD3ABCF92B.label = IMG_20231103_153643_00_118_PureShot
-map_88484541_94D0_A0E2_41E0_D7E2F479D2A7.label = Mini Map
+panorama_9CF3CFFC_8A8C_530E_41D9_162C67C52BE5.label = 01 November 2023
+panorama_9CEC062F_8A8C_5509_41C7_436011C6D274.label = 01 November 2023
+panorama_9CF38ADB_8A8C_7D09_41D5_078B28CB6AAE.label = 01 November 2023
+panorama_92D84E9D_8A8B_D509_41E0_1948DBDB2B05.label = 01 November 2023
+panorama_9CF2E52E_8A8C_570A_41D3_6F7CE652F13F.label = 01 November 2023
+panorama_9CEF1A5F_8A8C_3D0A_41C9_3AD707ACA5C6.label = 01 November 2023
+panorama_9F14F880_93F0_E030_41D4_ED16FCE5AE78.label = 02 November 2023
+panorama_9D71F665_93F0_A0F0_41C4_0E39293113ED.label = 02 November 2023
+panorama_9F1452B0_93F0_A050_41DD_6231CAA16BB0.label = 02 November 2023
+panorama_9F152DB7_93F0_A05F_41DB_963C8E0BA6EA.label = 02 November 2023
+panorama_9F14BE70_93F0_E0D0_41DD_86396E516F8A.label = 02 November 2023
+panorama_9F14B388_93F0_E031_41C3_D2F09EC6E895.label = 02 November 2023
+panorama_9EB996AA_93F0_6076_41AE_5F3D23471CC5.label = 03 November 2023
+panorama_9EBA906E_93F0_A0CE_41DC_7F8599D8A23A.label = 03 November 2023
+panorama_9E36251B_93F0_A056_41CC_4A723B099DA3.label = 03 November 2023
+panorama_9EB92D28_93F0_6072_41C0_943252EE0773.label = 03 November 2023
+panorama_9EB92237_93F0_605E_41E0_2C37C7E572F1.label = 03 November 2023
+panorama_9EA67B68_93F0_A0F2_41BC_A3B73EF14F20.label = 03 November 2023
+panorama_AA0655A4_A44E_665E_41D0_058E736BD1F6.label = 04 November 2023
+panorama_AA042F4E_A44E_E2ED_4191_30C97A869BEA.label = 04 November 2023
+panorama_AA066BCC_A44E_21ED_41E0_7AAF62252839.label = 04 November 2023
+panorama_AA059020_A44E_7E55_41E0_B1D079FD0310.label = 04 November 2023
+panorama_AA05975E_A44E_22ED_41DB_A98231F44B42.label = 04 November 2023
+panorama_AB5022D8_A44E_E3F6_41D8_C6AE855DCFD5.label = 04 November 2023
+panorama_AA1AA3D9_A44A_21F6_41B6_A6E7BE287EF3.label = 06 November 2023
+panorama_AA1B5E57_A44A_62FA_41D4_0B9ED6E0641B.label = 06 November 2023
+panorama_AA24B93C_A44A_6EAE_41D7_DC5025F17D04.label = 06 November 2023
+panorama_AA242389_A44A_6256_41E2_E515C4E60911.label = 06 November 2023
+panorama_AB80D8BC_A44A_2FAE_41BB_E251350041F2.label = 06 November 2023
+panorama_6BCACD9E_7F86_8704_41D0_69AE81A84C8D.label = 19 October 2023
+panorama_8ECC9E36_8005_94A1_41CB_8A2615D9DAC6.label = 19 October 2023
+panorama_8EFA27E0_8004_73A1_41DC_27EA61B50FD8.label = 19 October 2023
+panorama_6BF41C57_7F86_8504_41B9_038BF5B38649.label = 19 October 2023
+panorama_6C1CEA26_7F87_8D05_41A0_F4F85C87F406.label = 19 October 2023
+panorama_6C111536_7F87_8704_41D6_4B0CBB3A98B4.label = 19 October 2023
+panorama_9517836A_8085_8318_41D7_9106E49084EA.label = 20 October 2023
+panorama_95028E37_8085_8508_41D1_EFC5FFB35ECC.label = 20 October 2023
+panorama_6C13FEC6_7F9A_8505_41C6_4B2366557BD6.label = 20 October 2023
+panorama_9500BC72_8085_8509_41DF_B81C9324EAD0.label = 20 October 2023
+panorama_94F23E3D_8085_8578_41DE_BDF431B25F6F.label = 20 October 2023
+panorama_6C116326_7F9A_8305_41DC_7B52E00895E4.label = 20 October 2023
+panorama_8E401A56_8004_9CE7_41D7_777CB9C50119.label = 25 October 2023
+panorama_950001A7_808A_BF08_41C3_11D041791274.label = 25 October 2023
+panorama_94F2491A_808B_8F39_41DA_0171885D8F38.label = 25 October 2023
+panorama_94FE4406_808A_8508_41D1_6A2CB4437507.label = 25 October 2023
+panorama_9532A646_808A_8508_41C6_DBB77C4E42AA.label = 25 October 2023
+panorama_9B12180E_891B_214B_41D6_69215B258A05.label = 28 October 2023
+panorama_9936F92F_891A_E349_41D8_1A7BB3A4F15E.label = 28 October 2023
+panorama_9936C3A1_891B_2779_41B4_31FA59ADB7CA.label = 28 October 2023
+panorama_9936CE81_891B_2139_41A2_3B198C43F65A.label = 28 October 2023
+panorama_9937840E_891A_E14B_41D3_5538AA2B8B6F.label = 28 October 2023
+panorama_9A260241_89E5_213D_41D7_B8F34C9BDE34.label = 30 October 2023
+panorama_9A272821_89E5_617D_41CB_FD87331F1F0E.label = 30 October 2023
+panorama_9A270311_89E5_675D_41C6_F6F736BF09D9.label = 30 October 2023
+panorama_9A26F761_89E5_2FFD_41DD_3EF13E196D15.label = 30 October 2023
+panorama_9DE41C28_89EA_E14C_41B8_A0E2A4368E54.label = 30 October 2023
+panorama_9A26ED30_89E5_235B_419B_01948D09709D.label = 30 October 2023
+panorama_9A4A0787_89E7_6F45_41DA_080DAC800735.label = 31 October 2023
+panorama_9A4B4246_89E7_61C7_41DB_613EE4A726B1.label = 31 October 2023
+panorama_9A4A4DAA_89E7_634C_41C8_FF7B277E06F4.label = 31 October 2023
+panorama_9A48DBE0_89E7_26FC_41CA_2322EEB1FE54.label = 31 October 2023
+panorama_9DB365B9_89E7_234D_41DA_DF08AAEE1D10.label = 31 October 2023
+panorama_9A482101_89E7_233D_41C8_4F7B50BCA28B.label = 31 October 2023
+panorama_941A5D70_8ABC_371B_418E_B6383FAF24DA.label = Design
+panorama_94117083_8ABC_EDFC_41DC_42B96FFAB8A0.label = Design
+panorama_940C5631_8ABC_551C_41CE_E761C595C4BA.label = Design
+panorama_95141605_8ABC_3504_41D6_0108743EE86D.label = Design
+panorama_94679161_8ABF_EF3C_41C6_4F25595612EB.label = Design
+panorama_947774E6_8ABC_5507_41D0_951A38AAE66A.label = Design
+map_83CD77DE_93F0_6FCF_41DF_BD1D550BA38C.label = Floor Plan
 
 ## Skin
 
 ### Button
+Button_66E651E2_73F4_5602_41D5_BF733F9189B3.label = App Office 1
+Button_66C48C23_73F7_CE02_41CF_CE1B9712201E.label = App Office 2
+Button_6FBC5841_70AB_7AC7_41C2_290A7CC9C730.label = BIM Working Space
 Button_457C6D5F_64D0_6790_41D7_73EA7A7C0B12.label = Contact Us
+Button_164D2450_4668_18B2_4187_167A01C9F86C.label = Entrance
 Button_457E9D60_64D0_67B0_41D4_74152AE58FF2.label = Mini Map
+Button_45CD20A2_65A9_8CE1_41D4_D9D2672388F8.label = STR Working Space 1
+Button_65E599F6_73F4_5605_41D8_458A1B6B3B00.label = STR Working Space 2
 Button_457CAD5E_64D0_6790_41D5_6F4FA5BC8AFF.label = Screenshot
+Button_50FEC16A_4191_347A_41C4_ABF9322EAEAB.label = Staging
 
 ### Label
-Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = CMED Head Office, 4F-Design Department
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = CMED HEAD OFFICE, 2F MG OFFICE RENNOVATION
 
 ### Multiline Text
-HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV></div>
+HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Subtitle}}</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;"><B>{{Title}}</B></SPAN></SPAN></DIV></div>
+
+### Tab Panel
+TabPanelPage_4CF41024_4209_A14A_41C2_DD703E38951A.label = Construction
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = 4F-Design Department
+tour.name = 2F Rennovation
